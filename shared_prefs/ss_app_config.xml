@@ -20,7 +20,7 @@
     <string name="url_replace_mapping"></string>
     <string name="config_mapping">{&quot;i&quot;:&quot;ic.snssdk.com&quot;}</string>
     <int name="add_device_fingerprint_open" value="1" />
-    <long name="last_refresh_time" value="1531371807956" />
+    <long name="last_refresh_time" value="1531372891621" />
     <int name="add_ss_queries_plaintext_open" value="1" />
     <int name="detect_open" value="1" />
     <int name="http_show_hijack" value="1" />

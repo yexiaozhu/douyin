@@ -2,7 +2,7 @@
 <map>
     <boolean name="is_use_back_refresh" value="false" />
     <boolean name="enable_shopping_total" value="true" />
-    <int name="sync_to_toutiao" value="1" />
+    <int name="sync_to_toutiao" value="0" />
     <int name="upload_contacts_policy_times" value="0" />
     <string name="upload_contacts_policy_text">同步通讯录，看看有哪些联系人在使用抖音</string>
     <boolean name="original_musician_share_style" value="true" />
@@ -10,6 +10,7 @@
     <int name="refresh_zhima" value="0" />
     <int name="enable_ijk_hardware" value="0" />
     <boolean name="video_preload" value="true" />
+    <boolean name="is_first_lauch" value="false" />
     <int name="im_can_im" value="1" />
     <boolean name="is_use_tongdun_sdk" value="true" />
     <boolean name="shield_music_sdk" value="true" />

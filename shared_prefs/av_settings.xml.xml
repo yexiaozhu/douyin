@@ -3,8 +3,8 @@
     <int name="back_camera_filter" value="0" />
     <boolean name="use_sensetime" value="true" />
     <boolean name="draft_bubble_shown" value="false" />
-    <int name="camera_position" value="1" />
     <int name="synthetic_video_quality" value="15" />
+    <int name="camera_position" value="1" />
     <int name="beauty_model" value="3" />
     <string name="setting_video_size">576x1024</string>
     <string name="record_bitrate_category">[1.0,1.0,1.5,2.0]</string>
@@ -17,22 +17,22 @@
     <int name="ar_sticker_filter_guide_times" value="0" />
     <boolean name="long_video_permitted" value="false" />
     <string name="setting_video_size_category">[&quot;576x1024&quot;,&quot;720x1280&quot;,&quot;720x1280&quot;,&quot;720x1280&quot;]</string>
-    <boolean name="private_available" value="false" />
-    <int name="video_commit" value="40" />
+    <boolean name="private_available" value="true" />
     <int name="_version_" value="2" />
+    <int name="video_commit" value="40" />
     <long name="http_timeout" value="60000" />
     <int name="ar_sticker_guide_times" value="0" />
-    <float name="synthetic_video_bitrate" value="1.0" />
     <float name="video_bitrate" value="1.0" />
-    <boolean name="use_tt_uploader" value="true" />
-    <int name="front_camera_filter" value="0" />
+    <float name="synthetic_video_bitrate" value="1.0" />
     <int name="video_compose" value="60" />
+    <int name="front_camera_filter" value="0" />
+    <boolean name="use_tt_uploader" value="true" />
     <long name="http_retry_interval" value="0" />
     <boolean name="synthetic_hardcode" value="true" />
     <long name="long_video_threshold" value="59000" />
-    <int name="record_video_quality" value="18" />
-    <boolean name="hard_encode" value="true" />
-    <boolean name="last_publish_failed" value="false" />
     <int name="face_detect_interval" value="0" />
+    <boolean name="last_publish_failed" value="false" />
+    <boolean name="hard_encode" value="true" />
+    <int name="record_video_quality" value="18" />
     <boolean name="effect_bubble_shown" value="false" />
 </map>
