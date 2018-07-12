@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="share_guide_show_times" value="1" />
+    <int name="cold_start_times" value="1" />
+    <int name="share_guide_date_day" value="17724" />
+</map>

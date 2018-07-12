@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="host_status">[{&quot;host&quot;:&quot;ib.snssdk.com&quot;,&quot;port&quot;:80,&quot;reachable&quot;:true,&quot;connection_type&quot;:1}]</string>
+    <int name="checkInterval" value="1800000" />
+</map>

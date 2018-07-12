@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="push_register_results">[{&quot;sender&quot;:1,&quot;errcode&quot;:0,&quot;token&quot;:&quot;O+SgbiGVCd9+xARxR6FUuz+muBN9gZCDtCjoSHlJrp0QTWXdA2kuJkN5jJ253Suk&quot;}]</string>
+    <int name="ali_push_type" value="-1" />
+    <int name="http_monitor_port" value="1024" />
+    <string name="session_key"></string>
+    <string name="rom">MIUI-8.4.28</string>
+    <string name="push_daemon_monitor">{&quot;start&quot;:1531371803266,&quot;end&quot;:1531371803266,&quot;duration&quot;:0}</string>
+    <boolean name="red_badge_is_use_last_valid_response" value="false" />
+    <string name="uninstall_question_url">http://aweme.snssdk.com/questionnaire/uninstall/</string>
+    <string name="red_badge_last_time_paras">{&quot;launch&quot;:1531371807289,&quot;leave&quot;:1531372290207,&quot;badge&quot;:0}</string>
+    <string name="push_channels_json_array">[1]</string>
+    <int name="system_push_enable" value="1" />
+    <boolean name="shut_push_on_stop_service" value="false" />
+    <boolean name="allow_self_push_enable" value="false" />
+    <boolean name="allow_off_alive" value="true" />
+    <boolean name="last_send_notify_enable_is_succ" value="true" />
+    <boolean name="is_desktop_red_badge_show" value="true" />
+    <long name="last_get_update_sender_time_mil" value="1531371806878" />
+    <string name="red_badge_last_last_time_paras">{&quot;launch&quot;:0,&quot;leave&quot;:0,&quot;badge&quot;:0}</string>
+    <int name="red_badge_show_times" value="0" />
+    <string name="ssids">{&quot;openudid&quot;:&quot;2b4b7d98b3004c1f&quot;,&quot;device_id&quot;:&quot;53445842763&quot;,&quot;user_id&quot;:&quot;0&quot;,&quot;install_id&quot;:&quot;37157962468&quot;,&quot;clientudid&quot;:&quot;1b10a710-22f5-4ff7-b9a4-c7dfb50d8373&quot;}</string>
+    <boolean name="allow_network" value="true" />
+    <string name="desktop_red_badge_args">{&quot;max_show_times&quot;:3,&quot;query_waiting_duration&quot;:30,&quot;strategy&quot;:&quot;strategy_time_interval_v2_anti1&quot;}</string>
+    <int name="red_badge_launch_times" value="1" />
+    <string name="push_apps">1b10a710-22f5-4ff7-b9a4-c7dfb50d8373|53445842763|37157962468|1128|true|0|com.ss.android.ugc.aweme</string>
+</map>

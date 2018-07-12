@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="cdn_sample_band_width_enabled" value="1" />
+    <int name="collect_recent_page_info_enable" value="1" />
+    <int name="dynamic_timeout_enabled" value="1" />
+    <int name="ok_http_open" value="1" />
+    <int name="android_log_encrypt_switch" value="0" />
+    <int name="image_ttnet_enabled" value="1" />
+    <int name="replace_url_open" value="1" />
+    <int name="wait_config_times" value="0" />
+    <int name="http_to_https" value="0" />
+    <boolean name="https_available" value="true" />
+    <string name="frontier_urls">[&quot;wss:\/\/toutiao-frontier.snssdk.com\/ws\/v2&quot;,&quot;ws:\/\/toutiao-frontier.snssdk.com\/ws\/v2&quot;]</string>
+    <int name="add_ss_queries_open" value="0" />
+    <int name="https_dns_err_policy" value="0" />
+    <int name="hs_open" value="1" />
+    <int name="use_http_dns" value="-1" />
+    <int name="dynamic_adjust_threadpool_size_open" value="1" />
+    <int name="i_host_select_open_v2" value="1" />
+    <string name="url_replace_mapping"></string>
+    <string name="config_mapping">{&quot;i&quot;:&quot;ic.snssdk.com&quot;}</string>
+    <int name="add_device_fingerprint_open" value="1" />
+    <long name="last_refresh_time" value="1531371807956" />
+    <int name="add_ss_queries_plaintext_open" value="1" />
+    <int name="detect_open" value="1" />
+    <int name="http_show_hijack" value="1" />
+    <int name="detect_native_page" value="1" />
+    <int name="use_http_dns_refetch_on_expire" value="-1" />
+    <string name="https_dns">[{&quot;url_regex&quot;:&quot;^http:\/\/l[fgh]\\.snssdk\\.com\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/i[stu]\\.snssdk\\.com\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/i[cbd]\\.snssdk\\.com\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/a3\\.bytecdn\\.cn\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/a5\\.bytecdn\\.cn\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/a6\\.bytecdn\\.cn\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/isub\\.snssdk\\.com\/article\/v1\/tab_comments\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/i\\.snssdk\\.com\/2\/user\/profile\/v3\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/.*\/concern\/v2\/follow\/list\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/ichannel\\.snssdk\\.com\/feedback\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/ichannel\\.snssdk\\.com\/check_version\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/open\\.snssdk\\.com\/auth\/access\/device\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/open\\.snssdk\\.com\/data\/stream\/v3\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/open\\.snssdk\\.com\/data\/stream\/tt_sl\/app_list\/v1\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/open\\.snssdk\\.com\/data\/stream\/tt_sl\/app_setting\/v1\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/open\\.snssdk\\.com\/data\/stream\/tt_sl\/app_setting\/v2\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/open\\.snssdk\\.com\/data\/stream\/dislike\/tt_sl\/v1\/.*&quot;,&quot;err_count&quot;:0},{&quot;url_regex&quot;:&quot;^http:\/\/log\\.snssdk\\.com\/service\/2\/app_log_config\/.*&quot;,&quot;err_count&quot;:0}]</string>
+    <int name="https_retry_http" value="1" />
+    <int name="http_verify_sign" value="1" />
+    <int name="shuffle_dns" value="0" />
+    <int name="i_host_select_open" value="0" />
+    <int name="ok_http3_open" value="1" />
+    <string name="static_dns_mapping">[{&quot;ip&quot;:[&quot;123.58.9.84&quot;],&quot;host&quot;:&quot;ib.snssdk.com&quot;},{&quot;ip&quot;:[&quot;123.58.9.84&quot;],&quot;host&quot;:&quot;ic.snssdk.com&quot;}]</string>
+    <int name="https_to_http" value="1" />
+    <int name="sample_band_width_enabled" value="1" />
+    <int name="send_ss_etag_sample" value="1" />
+    <int name="send_api_exception_sample" value="1" />
+    <int name="http_dns_enabled" value="0" />
+    <int name="chromium_open" value="1" />
+    <int name="add_ss_queries_header_open" value="0" />
+    <int name="https_dns_err_max" value="3" />
+</map>
